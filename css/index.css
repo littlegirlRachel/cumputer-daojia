@@ -1,0 +1,19 @@
+.container .header {
+  display: flex;
+  min-width: 1200px;
+  height: 200px;
+}
+.container .header .logo {
+  flex: 1;
+}
+.container .header .nav {
+  flex: 1;
+}
+.container .content {
+  background: #09f;
+  display: block;
+}
+.container .content .banner .boxID .pic {
+  width: 560px;
+  height: 300px;
+}

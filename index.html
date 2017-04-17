@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>阿姨来啦</title>
+    <link rel="stylesheet" href="./css/index.css">
+    <style>
+        .boxID {
+            width: 560px;
+            height: 300px;
+        }
+        .boxID .pic{
+            width: inherit;
+            height: inherit;
+        }
+    </style>
+    <script src="js/myfocus-2.0.4.full.js"></script>
+</head>
+<body>
+<div class="container">
+    <header class="header">
+        <div class="logo"></div>
+        <div class="nav"></div>
+    </header>
+    <div class="conent">
+        <div class="banner">
+            <div class="boxID" id="boxID">
+                <!-- 内容列表 -->
+                <div class="pic">
+                    <ul>
+                        <li><a href="#"><img src="./img/1.jpg" alt="标题1"/></a></li>
+                        <li><a href="#"><img src="./img/2.jpg" alt="标题1"/></a></li>
+                        <li><a href="#"><img src="./img/3.jpg" alt="标题1"/></a></li>
+                        <li><a href="#"><img src="./img/4.jpg" alt="标题1"/></a></li>
+                        <li><a href="#"><img src="./img/5.jpg" alt="标题1"/></a></li>
+                        <!-- 你可以根据你的需要增加更多的列 -->
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="footer"></footer>
+</div>
+<script>
+    myFocus.set({id: 'boxID'});
+</script>
+</body>
+</html>
