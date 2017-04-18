@@ -46,10 +46,11 @@
 .container .content .serve {
   width: 100%;
   margin-top: 1em;
+  background-color: rgba(3, 7, 3, 0.15);
 }
 .container .content  .serve-title{
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   font-size: 20px;
   font-weight: bold;
   color:red;
@@ -73,6 +74,7 @@
 .container .content .slider-wrapper {
   display: flex;
   justify-content: space-between;
+  background-color: rgba(3, 7, 3, 0.15);
 }
 
 .container .content .serve-show h2 {
