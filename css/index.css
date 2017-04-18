@@ -69,10 +69,15 @@
 .container .content .serve-list  .serve-item .text-wrapper span{
   color:rgba(3, 7, 3, 0.53);
 }
- .slider-wrapper.slider-component{
-  display: flex;
-  justify-content:space-around;
-}
- .slider-wrapper h2{
 
+.container .content .slider-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container .content .serve-show h2 {
+  display: block;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: .5em;
  }
