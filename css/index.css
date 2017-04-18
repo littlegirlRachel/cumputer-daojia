@@ -1,6 +1,11 @@
 .container {
+  flex:1;
   width: 1200px;
   margin: 0 auto;
+}
+.container h2 {
+  display: inline-block;
+   flex-wrap: nowrap;
 }
 .container .header {
   display: flex;
@@ -24,6 +29,7 @@
 .container .header .nav .nav-list .nav-item {
   width: calc(100% / 6);
   float: left;
+  padding-top: 3%;
 }
 .container .content {
   display: block;
@@ -41,11 +47,32 @@
   width: 100%;
   margin-top: 1em;
 }
-
+.container .content  .serve-title{
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  font-weight: bold;
+  color:red;
+ }
 .container .content .serve .serve-list {
   display: flex;
+  justify-content: space-around;
 }
 
-.container .content .serve .serve-list .serve-item {
-  flex: 1;
+.container .content  .serve-list .serve-item {
+  padding-right: 0.5em;
 }
+.container .content .serve-list  .serve-item .text-wrapper {
+  display: flex;
+  justify-content:space-between;
+}
+.container .content .serve-list  .serve-item .text-wrapper span{
+  color:rgba(3, 7, 3, 0.53);
+}
+ .slider-wrapper.slider-component{
+  display: flex;
+  justify-content:space-around;
+}
+ .slider-wrapper h2{
+
+ }
