@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="decfd8f0-7a04-49f3-a226-8da4f7097a4e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/t-1-bj.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/common.css" afterPath="$PROJECT_DIR$/css/common.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/common.styl" afterPath="$PROJECT_DIR$/css/common.styl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.styl" afterPath="$PROJECT_DIR$/css/index.styl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/index.html" afterPath="$PROJECT_DIR$/myfocus-gh-pages/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -78,8 +71,8 @@
               <folding>
                 <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <marker date="1492536869167" expanded="false" signature="4239:4355" ph="..." />
-                <marker date="1492536869167" expanded="false" signature="4383:4497" ph="..." />
+                <marker date="1492536948963" expanded="false" signature="4260:4376" ph="..." />
+                <marker date="1492536948963" expanded="false" signature="4404:4518" ph="..." />
               </folding>
             </state>
           </provider>
@@ -121,8 +114,8 @@
         <option value="$PROJECT_DIR$/css/index.css" />
         <option value="$PROJECT_DIR$/css/common.styl" />
         <option value="$PROJECT_DIR$/myfocus-gh-pages/index.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/index.styl" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -369,7 +362,7 @@
       <workItem from="1492458307799" duration="8000" />
       <workItem from="1492469750693" duration="106000" />
       <workItem from="1492532581898" duration="209000" />
-      <workItem from="1492532801980" duration="4140000" />
+      <workItem from="1492532801980" duration="4184000" />
     </task>
     <task id="LOCAL-00001" summary="进行基本页面布局的制作">
       <created>1492474873614</created>
@@ -385,11 +378,18 @@
       <option name="project" value="LOCAL" />
       <updated>1492474906551</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="进行基本页面布局的制作">
+      <created>1492536965811</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1492536965811</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11890000" />
+    <option name="totallyTimeSpent" value="11934000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -471,8 +471,8 @@
           <folding>
             <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1492536869167" expanded="false" signature="4239:4355" ph="..." />
-            <marker date="1492536869167" expanded="false" signature="4383:4497" ph="..." />
+            <marker date="1492536948963" expanded="false" signature="4260:4376" ph="..." />
+            <marker date="1492536948963" expanded="false" signature="4404:4518" ph="..." />
           </folding>
         </state>
       </provider>
@@ -484,8 +484,8 @@
           <folding>
             <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1492536869167" expanded="false" signature="4239:4355" ph="..." />
-            <marker date="1492536869167" expanded="false" signature="4383:4497" ph="..." />
+            <marker date="1492536948963" expanded="false" signature="4260:4376" ph="..." />
+            <marker date="1492536948963" expanded="false" signature="4404:4518" ph="..." />
           </folding>
         </state>
       </provider>
@@ -570,8 +570,8 @@
           <folding>
             <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1492536869167" expanded="false" signature="4239:4355" ph="..." />
-            <marker date="1492536869167" expanded="false" signature="4383:4497" ph="..." />
+            <marker date="1492536948963" expanded="false" signature="4260:4376" ph="..." />
+            <marker date="1492536948963" expanded="false" signature="4404:4518" ph="..." />
           </folding>
         </state>
       </provider>
@@ -726,8 +726,8 @@
           <folding>
             <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1492536869167" expanded="false" signature="4239:4355" ph="..." />
-            <marker date="1492536869167" expanded="false" signature="4383:4497" ph="..." />
+            <marker date="1492536948963" expanded="false" signature="4260:4376" ph="..." />
+            <marker date="1492536948963" expanded="false" signature="4404:4518" ph="..." />
           </folding>
         </state>
       </provider>
