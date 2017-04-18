@@ -3,42 +3,115 @@
 <head>
     <meta charset="UTF-8">
     <title>阿姨来啦</title>
+    <link rel="stylesheet" href="node_modules/reset.css/reset.css">
+    <link rel="stylesheet" href="node_modules/normalize.css/normalize.css">
+    <link rel="stylesheet" href="css/common.css">
     <link rel="stylesheet" href="./css/index.css">
     <style>
-        .boxID {
-            width: 560px;
-            height: 300px;
-        }
-        .boxID .pic{
-            width: inherit;
-            height: inherit;
-        }
+
     </style>
     <script src="js/myfocus-2.0.4.full.js"></script>
 </head>
 <body>
 <div class="container">
-    <header class="header">
-        <div class="logo"></div>
-        <div class="nav"></div>
+    <header class="header cls">
+        <div class="logo">
+            <img src="img/logo.png">
+            <h2>58到家</h2>
+        </div>
+        <div class="nav">
+            <ul class="nav-list cls">
+                <li class="nav-item">首页</li>
+                <li class="nav-item">家政</li>
+                <li class="nav-item">月嫂</li>
+                <li class="nav-item">育儿嫂</li>
+                <li class="nav-item">保姆</li>
+                <li class="nav-item">企业服务</li>
+            </ul>
+        </div>
     </header>
-    <div class="conent">
+    <div class="content">
         <div class="banner">
             <div class="boxID" id="boxID">
                 <div class="pic">
                     <ul>
-                        <li><a href="#"><img src="./img/1.jpg" alt="标题1"/></a></li>
-                        <li><a href="#"><img src="./img/2.jpg" alt="标题1"/></a></li>
-                        <li><a href="#"><img src="./img/3.jpg" alt="标题1"/></a></li>
-                        <li><a href="#"><img src="./img/4.jpg" alt="标题1"/></a></li>
-                        <li><a href="#"><img src="./img/5.jpg" alt="标题1"/></a></li>
+                        <li><a href="#"><img src="./img/baojie.png" alt="标题1"/></a></li>
+                        <li><a href="#"><img src="./img/fuyubiaoyu.png" alt="标题1"/></a></li>
+                        <li><a href="#"><img src="./img/hezuo.png" alt="标题1"/></a></li>
+                        <li><a href="#"><img src="./img/piju.png" alt="标题1"/></a></li>
+                        <li><a href="#"><img src="./img/shipinjiaoxue.png" alt="标题1"/></a></li>
                         <!-- 你可以根据你的需要增加更多的列 -->
                     </ul>
                 </div>
             </div>
         </div>
+        <div class="serve">
+            <ul class="serve-list">
+                <li class="serve-item">
+                    <h3 class="title">日常保洁</h3>
+                    <span class="desc">家清惊人属性</span>
+                    <div class="img-wrapper"><img src="" alt=""></div>
+                </li>
+                <li class="serve-item">
+                    <h3 class="title">日常保洁</h3>
+                    <span class="desc">家清惊人属性</span>
+                    <div class="img-wrapper"><img src="" alt=""></div>
+                </li>
+                <li class="serve-item">
+                    <h3 class="title">日常保洁</h3>
+                    <span class="desc">家清惊人属性</span>
+                    <div class="img-wrapper"><img src="" alt=""></div>
+                </li>
+                <li class="serve-item">
+                    <h3 class="title">日常保洁</h3>
+                    <span class="desc">家清惊人属性</span>
+                    <div class="img-wrapper"><img src="" alt=""></div>
+                </li>
+            </ul>
+        </div>
+        <div class="hot-serve-bar"></div>
+        <ul class="serve-show">
+            <li class="clean">
+                <div class="slider-wrapper">
+                    this is a slider
+                </div>
+            </li>
+            <li class="care-baby">
+                <ul class="care-list">
+                    <li class="care-item"></li>
+
+                </ul>
+            </li>
+
+            <li class="house"></li>
+            <li class="girls">
+                <ul class="girls-list">
+                    <li class="girls-item"></li>
+                </ul>
+            </li>
+            <li class="trans">
+                <ul class="trans-list">
+                    <li class="trans-item"></li>
+                </ul>
+            </li>
+        </ul>
+        <div class="events">
+            <ul class="events-list">
+                <li class="events-item"></li>
+            </ul>
+        </div>
+        <div class="links">
+            <ul class="links-list">
+                <li class="links-item"></li>
+            </ul>
+        </div>
     </div>
-    <footer class="footer"></footer>
+    <footer class="footer">
+        <ul class="about-list">
+            <li class="about-item"></li>
+        </ul>
+        <div class="msg"></div>
+    </footer>
 </div>
 <script>
     myFocus.set({id: 'boxID'});

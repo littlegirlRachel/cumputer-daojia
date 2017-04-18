@@ -1,28 +1,87 @@
+//use stylus
 .container {
+  width 1200px
+  margin 0 auto
   .header {
     display flex
     min-width 1200px
-    height 200px
+  //height 200px
     .logo {
       flex 1
+      img {
+        display inline-block
+      }
+      h2 {
+        display inline-block
+      }
     }
     .nav {
       flex 1
-    }
-  }
-  .content {
-    background: #0099ff
-    display block
-    .banner{
-      .boxID {
-        .pic {
-          width 560px
-          height 300px
+      .nav-list {
+        .nav-item {
+          width calc(100% / 6)
+          float left
         }
       }
     }
   }
-  .footer {
+  .content {
+  //background: #0099ff
+    display block
+    .banner {
+      margin 0 auto
+      .boxID {
+        .pic {
+          width: inherit;
+          height: 340px;
+        }
+      }
+    }
+    .serve {
+      width 100%
+      margin-top 1em
+      .serve-list {
+        display flex
+        .serve-item {
+          flex 1
+        }
+      }
+    }
+    .hot-serve-bar {
 
+    }
+    .serve-show {
+    // this is the show common style
+      .show-common {
+
+      }
+      .clean {
+
+      }
+      .care-baby {
+
+      }
+      .house {
+
+      }
+      .girls {
+
+      }
+      .trans {
+
+      }
+    }
+    .events {
+
+    }
+    .links {
+
+    }
+
+  }
+  .footer {
+    .about-list {
+
+    }
   }
 }

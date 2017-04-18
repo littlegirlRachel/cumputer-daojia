@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Raoul1996/computer-daojia/issues"
   },
-  "homepage": "https://github.com/Raoul1996/computer-daojia#readme"
+  "homepage": "https://github.com/Raoul1996/computer-daojia#readme",
+  "dependencies": {
+    "normalize.css": "^6.0.0",
+    "reset.css": "^2.0.2"
+  }
 }
