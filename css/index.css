@@ -1,11 +1,11 @@
 .container {
-  flex:1;
+  flex: 1;
   width: 1200px;
   margin: 0 auto;
 }
 .container h2 {
   display: inline-block;
-   flex-wrap: nowrap;
+  flex-wrap: nowrap;
 }
 .container .header {
   display: flex;
@@ -14,18 +14,15 @@
 .container .header .logo {
   flex: 1;
 }
-
 .container .header .logo img {
   display: inline-block;
 }
-
 .container .header .logo h2 {
   display: inline-block;
 }
 .container .header .nav {
   flex: 1;
 }
-
 .container .header .nav .nav-list .nav-item {
   width: calc(100% / 6);
   float: left;
@@ -34,7 +31,6 @@
 .container .content {
   display: block;
 }
-
 .container .content .banner {
   margin: 0 auto;
 }
@@ -42,44 +38,46 @@
   width: inherit;
   height: 340px;
 }
-
 .container .content .serve {
   width: 100%;
   margin-top: 1em;
-  background-color: rgba(3, 7, 3, 0.15);
+  background-color: rgba(2,5,7,0.05);
 }
-.container .content  .serve-title{
+.container .content .serve .serve-title {
   display: flex;
   align-items: flex-start;
   font-size: 20px;
   font-weight: bold;
-  color:red;
- }
+}
 .container .content .serve .serve-list {
   display: flex;
   justify-content: space-around;
 }
-
-.container .content  .serve-list .serve-item {
+.container .content .serve .serve-list .serve-item {
+  flex: 1;
   padding-right: 0.5em;
 }
-.container .content .serve-list  .serve-item .text-wrapper {
+.container .content .serve .serve-list .serve-item .img-wrapper {
+  font-color: #f00;
+}
+.container .content .serve-title {
   display: flex;
-  justify-content:space-between;
+  align-items: flex-start;
+  font-size: 20px;
+  font-weight: bold;
 }
-.container .content .serve-list  .serve-item .text-wrapper span{
-  color:rgba(3, 7, 3, 0.53);
-}
-
-.container .content .slider-wrapper {
+.container .content .serve-show .slider-wrapper {
   display: flex;
   justify-content: space-between;
-  background-color: rgba(3, 7, 3, 0.15);
 }
-
 .container .content .serve-show h2 {
   display: block;
   font-weight: bold;
   font-size: 20px;
-  margin-bottom: .5em;
- }
+  margin-bottom: 0.5em;
+}
+.container .content .serve-show .care-baby .trans .slider-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+

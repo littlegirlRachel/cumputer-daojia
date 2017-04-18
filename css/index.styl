@@ -1,7 +1,11 @@
 //use stylus
 .container {
-  width 1200px
-  margin 0 auto
+  flex:1;
+  width: 1200px
+  margin: 0 auto
+  h2 {
+    display inline-block
+    flex-wrap nowrap}
   .header {
     display flex
     min-width 1200px
@@ -21,6 +25,7 @@
         .nav-item {
           width calc(100% / 6)
           float left
+          padding-top 3%
         }
       }
     }
@@ -40,21 +45,44 @@
     .serve {
       width 100%
       margin-top 1em
+      background-color rgba(2, 5, 7, 0.05)
+      .serve-title{
+        display: flex;
+        align-items: flex-start;
+        font-size: 20px;
+        font-weight: bold;
+      }
       .serve-list {
         display flex
+        justify-content: space-around;
         .serve-item {
           flex 1
+          padding-right: 0.5em;
        .img-wrapper{
          font-color red
        }
         }
       }
     }
-    .hot-serve-bar {
+      .serve-title{
+        display: flex;
+        align-items: flex-start;
+        font-size: 20px;
+        font-weight: bold;
+      }
 
-    }
     .serve-show {
     // this is the show common style
+      .slider-wrapper{
+        display: flex;
+        justify-content: space-between;
+      }
+      h2 {
+        display: block;
+        font-weight: bold;
+        font-size: 20px;
+        margin-bottom: .5em;
+      }
       .show-common {
 
       }
@@ -62,14 +90,17 @@
 
       }
       .care-baby {
-      .house {
+      .trans {
 
       }
       .girls {
 
       }
       .trans {
-
+        .slider-wrapper{
+          display: flex;
+          justify-content: space-between;
+        }
       }
     }
     .events {
