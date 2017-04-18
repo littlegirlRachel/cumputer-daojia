@@ -1,19 +1,51 @@
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
 .container .header {
   display: flex;
   min-width: 1200px;
-  height: 200px;
 }
 .container .header .logo {
   flex: 1;
 }
+
+.container .header .logo img {
+  display: inline-block;
+}
+
+.container .header .logo h2 {
+  display: inline-block;
+}
 .container .header .nav {
   flex: 1;
 }
+
+.container .header .nav .nav-list .nav-item {
+  width: calc(100% / 6);
+  float: left;
+}
 .container .content {
-  background: #09f;
   display: block;
 }
+
+.container .content .banner {
+  margin: 0 auto;
+}
 .container .content .banner .boxID .pic {
-  width: 560px;
-  height: 300px;
+  width: inherit;
+  height: 340px;
+}
+
+.container .content .serve {
+  width: 100%;
+  margin-top: 1em;
+}
+
+.container .content .serve .serve-list {
+  display: flex;
+}
+
+.container .content .serve .serve-list .serve-item {
+  flex: 1;
 }
