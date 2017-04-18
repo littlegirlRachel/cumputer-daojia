@@ -395,7 +395,13 @@
       <option name="project" value="LOCAL" />
       <updated>1492535051900</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="添加logo 页面布局完成70% 样式需修改&#10;">
+      <created>1492535056951</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1492535056951</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
