@@ -2,10 +2,174 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="decfd8f0-7a04-49f3-a226-8da4f7097a4e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/computer-daojia.iml" afterPath="$PROJECT_DIR$/.idea/computer-daojia.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/common.css" afterPath="$PROJECT_DIR$/css/common.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/common.styl" afterPath="$PROJECT_DIR$/css/common.styl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/css/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.styl" afterPath="$PROJECT_DIR$/css/index.styl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_51xflash.css" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_51xflash.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_51xflash.js" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_51xflash.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_YSlider.css" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_YSlider.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_YSlider.js" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_YSlider.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_classicHB.css" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_classicHB.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_classicHB.js" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_classicHB.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_classicHC.css" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_classicHC.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_classicHC.js" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_classicHC.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_dleung.css" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_dleung.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_dleung.js" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_dleung.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_expo2010.css" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_expo2010.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_expo2010.js" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_expo2010.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_fancy.css" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_fancy.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_fancy.js" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_fancy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_fscreen_tb.css" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_fscreen_tb.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_fscreen_tb.js" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_fscreen_tb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_games_tb.css" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_games_tb.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_games_tb.js" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_games_tb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_kdui.css" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_kdui.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_kdui.js" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_kdui.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_kiki.css" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_kiki.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_kiki.js" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_kiki.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_ladyQ.css" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_ladyQ.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_ladyQ.js" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_ladyQ.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_liquid.css" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_liquid.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_liquid.js" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_liquid.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_liuzg.css" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_liuzg.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_liuzg.js" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_liuzg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_luluJQ.css" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_luluJQ.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_luluJQ.js" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_luluJQ.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_pconline.css" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_pconline.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_pconline.js" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_pconline.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_peijianmall.css" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_peijianmall.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_peijianmall.js" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_peijianmall.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_pithy_tb.css" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_pithy_tb.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_pithy_tb.js" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_pithy_tb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_qiyi.css" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_qiyi.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_qiyi.js" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_qiyi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_quwan.css" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_quwan.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_quwan.js" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_quwan.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_rapoo.css" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_rapoo.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_rapoo.js" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_rapoo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_shutters.css" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_shutters.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_shutters.js" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_shutters.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_slide3D.css" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_slide3D.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_slide3D.js" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_slide3D.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_sohusports.css" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_sohusports.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_sohusports.js" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_sohusports.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_taobao2010.css" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_taobao2010.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_taobao2010.js" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_taobao2010.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_taobaomall.css" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_taobaomall.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_taobaomall.js" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_taobaomall.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_tbhuabao.css" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_tbhuabao.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mf-pattern/mF_tbhuabao.js" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_tbhuabao.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/myfocus-2.0.4.full.js" afterPath="$PROJECT_DIR$/js/myfocus-2.0.4.full.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/LICENSE" afterPath="$PROJECT_DIR$/myfocus-gh-pages/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/README.md" afterPath="$PROJECT_DIR$/myfocus-gh-pages/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/demo/base.html" afterPath="$PROJECT_DIR$/myfocus-gh-pages/demo/base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/demo/custom.html" afterPath="$PROJECT_DIR$/myfocus-gh-pages/demo/custom.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_51xflash.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_51xflash.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_51xflash.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_51xflash.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_YSlider.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_YSlider.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_YSlider.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_YSlider.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_classicHB.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_classicHB.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_classicHB.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_classicHB.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_classicHC.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_classicHC.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_classicHC.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_classicHC.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_dleung.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_dleung.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_dleung.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_dleung.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_expo2010.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_expo2010.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_expo2010.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_expo2010.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_fancy.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_fancy.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_fancy.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_fancy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_fscreen_tb.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_fscreen_tb.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_fscreen_tb.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_fscreen_tb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_games_tb.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_games_tb.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_games_tb.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_games_tb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_kdui.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_kdui.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_kdui.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_kdui.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_kiki.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_kiki.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_kiki.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_kiki.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_ladyQ.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_ladyQ.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_ladyQ.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_ladyQ.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_liquid.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_liquid.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_liquid.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_liquid.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_liuzg.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_liuzg.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_liuzg.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_liuzg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_luluJQ.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_luluJQ.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_luluJQ.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_luluJQ.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_pconline.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_pconline.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_pconline.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_pconline.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_peijianmall.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_peijianmall.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_peijianmall.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_peijianmall.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_pithy_tb.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_pithy_tb.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_pithy_tb.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_pithy_tb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_qiyi.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_qiyi.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_qiyi.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_qiyi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_quwan.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_quwan.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_quwan.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_quwan.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_rapoo.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_rapoo.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_rapoo.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_rapoo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_shutters.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_shutters.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_shutters.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_shutters.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_slide3D.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_slide3D.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_slide3D.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_slide3D.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_sohusports.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_sohusports.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_sohusports.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_sohusports.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_taobao2010.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_taobao2010.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_taobao2010.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_taobao2010.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_taobaomall.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_taobaomall.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_taobaomall.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_taobaomall.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_tbhuabao.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_tbhuabao.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_tbhuabao.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_tbhuabao.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/myfocus-2.0.4.full.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/myfocus-2.0.4.full.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/dist/myfocus-2.0.4.min.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/myfocus-2.0.4.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/index.html" afterPath="$PROJECT_DIR$/myfocus-gh-pages/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_51xflash.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_51xflash.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_51xflash.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_51xflash.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_YSlider.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_YSlider.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_classicHB.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_classicHB.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_classicHC.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_classicHC.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_dleung.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_dleung.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_expo2010.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_expo2010.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_expo2010.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_expo2010.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_fancy.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_fancy.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_fancy.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_fancy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_fscreen_tb.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_fscreen_tb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_games_tb.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_games_tb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_kdui.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_kdui.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_kiki.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_kiki.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_ladyQ.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_ladyQ.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_liquid.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_liquid.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_luluJQ.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_luluJQ.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_peijianmall.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_peijianmall.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_pithy_tb.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_pithy_tb.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_pithy_tb.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_pithy_tb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_qiyi.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_qiyi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_quwan.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_quwan.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_quwan.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_quwan.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_rapoo.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_rapoo.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_shutters.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_shutters.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_slide3D.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_slide3D.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_taobaomall.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_taobaomall.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_taobaomall.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_taobaomall.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_tbhuabao.css" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_tbhuabao.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/myfocus-2.0.4.full.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/myfocus-2.0.4.full.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/myfocus-2.0.4.min.js" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/myfocus-2.0.4.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/normalize.css/CHANGELOG.md" afterPath="$PROJECT_DIR$/node_modules/normalize.css/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/normalize.css/LICENSE.md" afterPath="$PROJECT_DIR$/node_modules/normalize.css/LICENSE.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/normalize.css/README.md" afterPath="$PROJECT_DIR$/node_modules/normalize.css/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/normalize.css/normalize.css" afterPath="$PROJECT_DIR$/node_modules/normalize.css/normalize.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/normalize.css/package.json" afterPath="$PROJECT_DIR$/node_modules/normalize.css/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/reset.css/README.md" afterPath="$PROJECT_DIR$/node_modules/reset.css/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/reset.css/package.json" afterPath="$PROJECT_DIR$/node_modules/reset.css/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/reset.css/reset.css" afterPath="$PROJECT_DIR$/node_modules/reset.css/reset.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unnamed.patch" afterPath="$PROJECT_DIR$/unnamed.patch" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,63 +185,60 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file leaf-file-name="index.styl" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/css/index.styl">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state vertical-scroll-proportion="0.0">
+                    <caret line="93" column="12" selection-start-line="93" selection-start-column="12" selection-end-line="93" selection-end-column="12" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/myfocus-gh-pages/index.html">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state vertical-scroll-proportion="0.0">
+                    <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file leaf-file-name="common.styl" pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/css/common.styl">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state vertical-scroll-proportion="0.0">
+                    <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="computer-daojia" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.styl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/index.styl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.8055556">
-              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-              <folding>
-                <element signature="e#1883#2001#0" expanded="false" />
-                <element signature="e#2076#3143#0" expanded="false" />
-                <element signature="e#2192#2264#0" expanded="false" />
-                <element signature="e#2274#2388#0" expanded="false" />
-                <element signature="e#2408#3026#0" expanded="false" />
-                <element signature="e#2511#2648#0" expanded="false" />
-                <element signature="e#2664#2902#0" expanded="false" />
-                <element signature="e#2689#2892#0" expanded="false" />
-                <element signature="e#2769#2880#0" expanded="false" />
-                <element signature="e#2922#2934#0" expanded="false" />
-                <element signature="e#2950#2962#0" expanded="false" />
-                <element signature="e#2978#2990#0" expanded="false" />
-                <element signature="e#3006#3018#0" expanded="false" />
-                <element signature="e#3041#3051#0" expanded="false" />
-                <element signature="e#3065#3076#0" expanded="false" />
-                <element signature="e#3091#3133#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3752244">
-              <caret line="91" column="33" selection-start-line="0" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.08215298">
+              <caret line="97" column="38" selection-start-line="97" selection-start-column="38" selection-end-line="97" selection-end-column="38" />
               <folding>
-                <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#ul#0;n#footer#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/index.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.138889">
-              <caret line="68" column="60" selection-start-line="68" selection-start-column="60" selection-end-line="68" selection-end-column="60" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -121,8 +282,8 @@
         <option value="$PROJECT_DIR$/gitignore" />
         <option value="$PROJECT_DIR$/css/index.css" />
         <option value="$PROJECT_DIR$/css/common.styl" />
-        <option value="$PROJECT_DIR$/css/index.styl" />
         <option value="$PROJECT_DIR$/myfocus-gh-pages/index.html" />
+        <option value="$PROJECT_DIR$/css/index.styl" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -168,7 +329,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -187,36 +347,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cumputer-daojia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cumputer-daojia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cumputer-daojia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cumputer-daojia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -230,7 +363,6 @@
     <property name="list.type.of.created.stylesheet" value="Stylus" />
     <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
     <property name="SearchEverywhereHistoryKey" value="display:none&#9;null&#9;null" />
-    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -346,54 +478,55 @@
       <option name="project" value="LOCAL" />
       <updated>1492474906551</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="进行基本页面布局的制作">
+      <created>1492536965811</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1492536965811</updated>
+    </task>
+    <task id="LOCAL-00004" summary="进行基本页面布局的制作">
+      <created>1492536988836</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1492536988836</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6508000" />
+    <option name="totallyTimeSpent" value="11994000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24776785" sideWeight="0.47521368" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24776785" sideWeight="0.47521368" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24909224" sideWeight="0.52478635" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3279743" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3279743" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3268921" sideWeight="0.5089286" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24909224" sideWeight="0.52478635" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3268921" sideWeight="0.49107143" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24851191" sideWeight="0.47521368" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -442,13 +575,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="97" column="38" selection-start-line="97" selection-start-column="38" selection-end-line="97" selection-end-column="38" />
           <folding>
-            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#footer#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -457,24 +584,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1883#2001#0" expanded="false" />
-            <element signature="e#2076#3143#0" expanded="false" />
-            <element signature="e#2192#2264#0" expanded="false" />
-            <element signature="e#2274#2388#0" expanded="false" />
-            <element signature="e#2408#3026#0" expanded="false" />
-            <element signature="e#2511#2648#0" expanded="false" />
-            <element signature="e#2664#2902#0" expanded="false" />
-            <element signature="e#2689#2892#0" expanded="false" />
-            <element signature="e#2769#2880#0" expanded="false" />
-            <element signature="e#2922#2934#0" expanded="false" />
-            <element signature="e#2950#2962#0" expanded="false" />
-            <element signature="e#2978#2990#0" expanded="false" />
-            <element signature="e#3006#3018#0" expanded="false" />
-            <element signature="e#3041#3051#0" expanded="false" />
-            <element signature="e#3065#3076#0" expanded="false" />
-            <element signature="e#3091#3133#0" expanded="false" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myfocus-gh-pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/common.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -483,13 +609,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#footer#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -499,13 +619,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="116" column="31" selection-start-line="116" selection-start-column="31" selection-end-line="116" selection-end-column="31" />
           <folding>
-            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#footer#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -528,24 +642,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1883#2001#0" expanded="false" />
-            <element signature="e#2076#3143#0" expanded="false" />
-            <element signature="e#2192#2264#0" expanded="false" />
-            <element signature="e#2274#2388#0" expanded="false" />
-            <element signature="e#2408#3026#0" expanded="false" />
-            <element signature="e#2511#2648#0" expanded="false" />
-            <element signature="e#2664#2902#0" expanded="false" />
-            <element signature="e#2689#2892#0" expanded="false" />
-            <element signature="e#2769#2880#0" expanded="false" />
-            <element signature="e#2922#2934#0" expanded="false" />
-            <element signature="e#2950#2962#0" expanded="false" />
-            <element signature="e#2978#2990#0" expanded="false" />
-            <element signature="e#3006#3018#0" expanded="false" />
-            <element signature="e#3041#3051#0" expanded="false" />
-            <element signature="e#3065#3076#0" expanded="false" />
-            <element signature="e#3091#3133#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -601,13 +698,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="116" column="31" selection-start-line="116" selection-start-column="31" selection-end-line="116" selection-end-column="31" />
           <folding>
-            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#footer#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -616,7 +707,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -624,24 +717,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
-          <folding>
-            <element signature="e#1883#2001#0" expanded="false" />
-            <element signature="e#2076#3143#0" expanded="false" />
-            <element signature="e#2192#2264#0" expanded="false" />
-            <element signature="e#2274#2388#0" expanded="false" />
-            <element signature="e#2408#3026#0" expanded="false" />
-            <element signature="e#2511#2648#0" expanded="false" />
-            <element signature="e#2664#2902#0" expanded="false" />
-            <element signature="e#2689#2892#0" expanded="false" />
-            <element signature="e#2769#2880#0" expanded="false" />
-            <element signature="e#2922#2934#0" expanded="false" />
-            <element signature="e#2950#2962#0" expanded="false" />
-            <element signature="e#2978#2990#0" expanded="false" />
-            <element signature="e#3006#3018#0" expanded="false" />
-            <element signature="e#3041#3051#0" expanded="false" />
-            <element signature="e#3065#3076#0" expanded="false" />
-            <element signature="e#3091#3133#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -717,80 +793,58 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/img/adv/f-2-01.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/common.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/myfocus-2.0.4.full.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/common.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4825291">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myfocus-gh-pages/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.8469218">
-          <caret line="83" column="13" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/index.styl">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.8055556">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-          <folding>
-            <element signature="e#1883#2001#0" expanded="false" />
-            <element signature="e#2076#3143#0" expanded="false" />
-            <element signature="e#2192#2264#0" expanded="false" />
-            <element signature="e#2274#2388#0" expanded="false" />
-            <element signature="e#2408#3026#0" expanded="false" />
-            <element signature="e#2511#2648#0" expanded="false" />
-            <element signature="e#2664#2902#0" expanded="false" />
-            <element signature="e#2689#2892#0" expanded="false" />
-            <element signature="e#2769#2880#0" expanded="false" />
-            <element signature="e#2922#2934#0" expanded="false" />
-            <element signature="e#2950#2962#0" expanded="false" />
-            <element signature="e#2978#2990#0" expanded="false" />
-            <element signature="e#3006#3018#0" expanded="false" />
-            <element signature="e#3041#3051#0" expanded="false" />
-            <element signature="e#3065#3076#0" expanded="false" />
-            <element signature="e#3091#3133#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.138889">
-          <caret line="68" column="60" selection-start-line="68" selection-start-column="60" selection-end-line="68" selection-end-column="60" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="93" column="12" selection-start-line="93" selection-start-column="12" selection-end-line="93" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3752244">
-          <caret line="91" column="33" selection-start-line="0" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.08215298">
+          <caret line="97" column="38" selection-start-line="97" selection-start-column="38" selection-end-line="97" selection-end-column="38" />
           <folding>
-            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#footer#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
