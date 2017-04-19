@@ -66,14 +66,13 @@
   background-color: rgba(2, 5, 7, 0.05);
 }
 
-.container .content .all-serve-wrapper .serve .serve-title {
 .container .content .serve .serve-list {
   display: flex;
   align-items: flex-start;
   font-size: 20px;
   font-weight: bold
 }
-.container .content .serve .serve-list .serve-item {
+
 
 .container .content .all-serve-wrapper .serve .serve-list {
   display: flex;
@@ -110,7 +109,7 @@
 
 .container .content .all-serve-wrapper .serve-show .care-baby .trans .slider-wrapper {
   display: flex;
-  justify-content: space-between
+  justify-content: space-between;
     text-align: center;
 }
 
