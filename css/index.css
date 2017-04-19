@@ -23,19 +23,27 @@
 }
 
 .container .header .logo h2 {
-  display: inline-block
+  display: inline-block;
 }
 
 .container .header .nav {
   flex: 1;
+    height: inherit;
 }
 
+.container .header .nav .nav-list {
+    text-align: center;
+    font-size: 0;
+}
 .container .header .nav .nav-list .nav-item {
+    font-size: 1rem;
+    display: inline-block;
+    height: 87px;
+    line-height: 87px;
   width: calc(100% / 6);
   float: left;
   padding-top: 3%
 }
-
 .container .content {
   display: block;
 }
@@ -43,10 +51,9 @@
 .container .content .banner {
   margin: 0 auto;
 }
-
 .container .content .banner .boxID .pic {
   width: inherit;
-  height: 340px
+  height: 340px;
 }
 
 .container .content .all-serve-wrapper {
@@ -60,11 +67,13 @@
 }
 
 .container .content .all-serve-wrapper .serve .serve-title {
+.container .content .serve .serve-list {
   display: flex;
   align-items: flex-start;
   font-size: 20px;
   font-weight: bold
 }
+.container .content .serve .serve-list .serve-item {
 
 .container .content .all-serve-wrapper .serve .serve-list {
   display: flex;
@@ -102,4 +111,69 @@
 .container .content .all-serve-wrapper .serve-show .care-baby .trans .slider-wrapper {
   display: flex;
   justify-content: space-between
+    text-align: center;
+}
+
+.container .content .hot-serve-bar {
+    margin-top: 1em;
+}
+
+.container .content .hot-serve-bar strong {
+    font-size: 1.1em;
+    display: inline-block;
+    font-weight: 700;
+}
+
+.container .content .hot-serve-bar .hot-item {
+    display: inline-block;
+    border: 1px solid #dfe2e8;
+    border-radius: 32px;
+    height: 32px;
+    line-height: 32px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 12px;
+    position: relative;
+    color: #525a66;
+    cursor: pointer;
+}
+
+.container .content .hot-serve-bar .hot-item:hover {
+    border: 1px solid #f00;
+}
+
+.large-container {
+    width: 100%;
+    background: #f5f5f5;
+}
+
+.large-container .large-content {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.large-container .large-content .serve-show {
+    margin-top: 1em;
+    padding-top: 2em;
+    background: #f5f5f5;
+}
+
+.large-container .large-content .serve-show .title {
+    font-size: 1.5em;
+}
+
+.large-container .large-content .serve-show .title strong {
+    color: rgba(255, 0, 0, 0.8);
+    padding-right: 1em;
+}
+
+.large-container .large-content .serve-show .clean .clean-list {
+    font-size: 0;
+    text-align: center;
+}
+
+.large-container .large-content .serve-show .clean .clean-list .clean-item {
+    display: inline-block;
+    font-size: 1rem;
+    text-align: center;
 }
