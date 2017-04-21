@@ -1,0 +1,39 @@
+.clean .title {
+    font-size: 1.5em;
+    margin: 1em 0;
+}
+
+.clean .title strong {
+    color: rgba(255, 0, 0, 0.8);
+    padding-right: 1em;
+}
+
+.clean .clean-list {
+    font-size: 0;
+    text-align: center;
+    display: flex;
+}
+
+.clean .clean-list .clean-item {
+    background: #fff;
+    padding: 0 5%;
+    width: 28%;
+    flex: 1;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.clean .clean-list .clean-item img {
+    width: 100%;
+}
+
+.clean .clean-list .clean-item span {
+    display: block;
+}
+
+button {
+    height: 12%;
+    width: 30%;
+    background: rgba(255, 5, 23, 0.75);
+    border-radius: .5em;
+}
