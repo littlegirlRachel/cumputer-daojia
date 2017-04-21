@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="decfd8f0-7a04-49f3-a226-8da4f7097a4e" name="Default" comment="第一个分页面布局完毕">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/git" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/20160718122140_24548.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/clean-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/clean-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/clean-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/background.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="decfd8f0-7a04-49f3-a226-8da4f7097a4e" name="Default" comment="第一个分页面布局完毕" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -98,6 +90,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="littlegirlRachel" />
         <option value="raoul1996 &lt;baobaozhou199606@gmail.com&gt;" />
       </list>
     </option>
@@ -360,7 +353,13 @@
       <option name="project" value="LOCAL" />
       <updated>1492796756894</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="第一个分页面布局完毕">
+      <created>1492796982419</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1492796982419</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
