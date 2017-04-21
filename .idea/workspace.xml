@@ -1,186 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="decfd8f0-7a04-49f3-a226-8da4f7097a4e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Housekeeping.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/house-keeping.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/house-keeping.styl" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/adv/large-0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/adv/large-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/adv/large-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/adv/large-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/adv/large-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/adv/large-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/adv/large-7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/阿姨来啦.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/bower.json" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/common.css" afterPath="$PROJECT_DIR$/css/common.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/common.styl" afterPath="$PROJECT_DIR$/css/common.styl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/stylus" afterPath="$PROJECT_DIR$/node_modules/.bin/stylus" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/debug/.coveralls.yml" afterPath="$PROJECT_DIR$/node_modules/debug/.coveralls.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/debug/.eslintrc" afterPath="$PROJECT_DIR$/node_modules/debug/.eslintrc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/debug/.npmignore" afterPath="$PROJECT_DIR$/node_modules/debug/.npmignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/debug/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/debug/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/debug/CHANGELOG.md" afterPath="$PROJECT_DIR$/node_modules/debug/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/debug/LICENSE" afterPath="$PROJECT_DIR$/node_modules/debug/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/debug/Makefile" afterPath="$PROJECT_DIR$/node_modules/debug/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/debug/README.md" afterPath="$PROJECT_DIR$/node_modules/debug/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/debug/component.json" afterPath="$PROJECT_DIR$/node_modules/debug/component.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/debug/karma.conf.js" afterPath="$PROJECT_DIR$/node_modules/debug/karma.conf.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/debug/node.js" afterPath="$PROJECT_DIR$/node_modules/debug/node.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/debug/package.json" afterPath="$PROJECT_DIR$/node_modules/debug/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/debug/src/browser.js" afterPath="$PROJECT_DIR$/node_modules/debug/src/browser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/debug/src/debug.js" afterPath="$PROJECT_DIR$/node_modules/debug/src/debug.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/debug/src/index.js" afterPath="$PROJECT_DIR$/node_modules/debug/src/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/debug/src/node.js" afterPath="$PROJECT_DIR$/node_modules/debug/src/node.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/ms/LICENSE.md" afterPath="$PROJECT_DIR$/node_modules/ms/LICENSE.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/ms/README.md" afterPath="$PROJECT_DIR$/node_modules/ms/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/ms/index.js" afterPath="$PROJECT_DIR$/node_modules/ms/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/ms/package.json" afterPath="$PROJECT_DIR$/node_modules/ms/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/History.md" afterPath="$PROJECT_DIR$/node_modules/stylus/History.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/LICENSE" afterPath="$PROJECT_DIR$/node_modules/stylus/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/Readme.md" afterPath="$PROJECT_DIR$/node_modules/stylus/Readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/bin/stylus" afterPath="$PROJECT_DIR$/node_modules/stylus/bin/stylus" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/index.js" afterPath="$PROJECT_DIR$/node_modules/stylus/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/browserify.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/browserify.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/cache/fs.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/cache/fs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/cache/index.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/cache/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/cache/memory.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/cache/memory.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/cache/null.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/cache/null.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/colors.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/colors.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/convert/css.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/convert/css.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/errors.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/errors.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/add-property.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/add-property.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/adjust.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/adjust.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/alpha.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/alpha.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/base-convert.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/base-convert.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/basename.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/basename.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/blend.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/blend.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/blue.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/blue.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/clone.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/clone.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/component.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/component.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/contrast.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/contrast.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/convert.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/convert.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/current-media.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/current-media.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/define.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/define.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/dirname.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/dirname.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/error.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/error.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/extname.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/extname.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/green.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/green.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/hsl.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/hsl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/hsla.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/hsla.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/hue.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/hue.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/image-size.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/image-size.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/image.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/image.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/index.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/index.styl" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/index.styl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/json.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/json.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/length.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/length.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/lightness.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/lightness.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/list-separator.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/list-separator.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/lookup.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/lookup.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/luminosity.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/luminosity.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/match.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/match.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/math-prop.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/math-prop.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/math.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/math.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/merge.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/merge.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/operate.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/operate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/opposite-position.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/opposite-position.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/p.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/p.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/pathjoin.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/pathjoin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/pop.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/pop.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/prefix-classes.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/prefix-classes.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/push.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/push.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/range.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/range.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/red.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/red.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/remove.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/remove.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/replace.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/replace.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/resolver.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/resolver.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/rgb.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/rgb.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/rgba.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/rgba.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/s.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/s.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/saturation.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/saturation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/selector-exists.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/selector-exists.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/selector.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/selector.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/selectors.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/selectors.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/shift.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/shift.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/slice.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/slice.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/split.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/split.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/substr.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/substr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/tan.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/tan.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/trace.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/trace.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/transparentify.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/transparentify.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/type.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/type.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/unit.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/unit.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/unquote.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/unquote.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/unshift.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/unshift.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/url.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/url.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/use.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/use.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/warn.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/warn.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/lexer.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/lexer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/middleware.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/middleware.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/arguments.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/arguments.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/atblock.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/atblock.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/atrule.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/atrule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/binop.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/binop.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/block.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/block.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/boolean.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/boolean.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/call.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/call.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/charset.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/charset.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/comment.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/comment.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/each.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/each.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/expression.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/expression.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/extend.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/extend.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/feature.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/feature.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/function.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/function.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/group.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/group.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/hsla.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/hsla.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/ident.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/ident.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/if.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/if.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/import.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/import.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/index.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/keyframes.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/keyframes.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/literal.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/literal.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/media.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/media.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/member.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/member.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/namespace.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/namespace.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/node.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/node.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/null.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/null.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/object.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/object.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/params.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/params.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/property.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/property.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/query-list.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/query-list.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/query.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/query.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/return.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/return.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/rgba.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/rgba.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/root.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/root.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/selector.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/selector.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/string.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/string.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/supports.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/supports.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/ternary.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/ternary.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/unaryop.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/unaryop.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/unit.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/unit.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/parser.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/parser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/renderer.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/renderer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/selector-parser.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/selector-parser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/stack/frame.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/stack/frame.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/stack/index.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/stack/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/stack/scope.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/stack/scope.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/stylus.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/stylus.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/token.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/token.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/units.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/units.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/utils.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/utils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/visitor/compiler.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/visitor/compiler.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/visitor/deps-resolver.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/visitor/deps-resolver.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/visitor/evaluator.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/visitor/evaluator.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/visitor/index.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/visitor/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/visitor/normalizer.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/visitor/normalizer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/visitor/sourcemapper.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/visitor/sourcemapper.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/package.json" afterPath="$PROJECT_DIR$/node_modules/stylus/package.json" />
-    </list>
+    <list default="true" id="decfd8f0-7a04-49f3-a226-8da4f7097a4e" name="Default" comment="第一个分页面布局完毕" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -217,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/Housekeeping.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-4.8333335">
-              <caret line="63" column="32" selection-start-line="63" selection-start-column="32" selection-end-line="63" selection-end-column="32" />
+              <caret line="63" column="31" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
               <folding>
                 <element signature="n#li#1;n#ul#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#span#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -230,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/css/house-keeping.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.6713881">
-              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+              <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -240,7 +61,7 @@
         <entry file="file://$PROJECT_DIR$/css/house-keeping.styl">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-4.8333335">
-              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="28" selection-end-column="37" />
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="28" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -516,7 +337,13 @@
       <option name="project" value="LOCAL" />
       <updated>1492536988836</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="第一个分页面布局完毕">
+      <created>1492796744705</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1492796744705</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -537,6 +364,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24776785" sideWeight="0.47521368" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24909224" sideWeight="0.52478635" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -596,7 +424,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="进行基本页面布局的制作" />
-    <option name="LAST_COMMIT_MESSAGE" value="进行基本页面布局的制作" />
+    <MESSAGE value="第一个分页面布局完毕" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一个分页面布局完毕" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -921,7 +750,7 @@
     <entry file="file://$PROJECT_DIR$/Housekeeping.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.8333335">
-          <caret line="63" column="32" selection-start-line="63" selection-start-column="32" selection-end-line="63" selection-end-column="32" />
+          <caret line="63" column="31" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
           <folding>
             <element signature="n#li#1;n#ul#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#span#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -932,7 +761,7 @@
     <entry file="file://$PROJECT_DIR$/css/house-keeping.styl">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.8333335">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="28" selection-end-column="37" />
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="28" selection-end-column="35" />
           <folding />
         </state>
       </provider>
@@ -940,7 +769,7 @@
     <entry file="file://$PROJECT_DIR$/css/house-keeping.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6713881">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
           <folding />
         </state>
       </provider>
