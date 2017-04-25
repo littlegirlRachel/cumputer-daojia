@@ -10,65 +10,21 @@
             width:18% ;
             padding:2%;
         }
-        .field{
+      input,select{
+        margin-top: 4%;
 
-        }
+      }
+      #btnExpress{
+        width: 90%;
+        height: 30px;
+      }
+      #exName,#exMobile,#addr1,#addrMore,#exCraft,#ServiceTypeID,#addr2{
+        width: 90%;
+        height: 20px;
+      }
     </style>
-    <script src="js/jquery.unobtrusive-ajax.min.js"/>
-    <script src="js/jquery-1.11.1.min.js"/>
-    <script src="js/jquery-migrate-1.2.1.min.js"/>
 </head>
 <body>
-<script language="javascript" type="text/javascript">
-    $(function () {
-        $("#my_favorite").mouseover(function() {
-            var newPos = $(this).offset();
-            newPos.top = 40;
-            newPos.left = newPos.left - ($("#favorite_list_box").width() - $(this).width() + 4);
-            $("#favorite_list_box").show().offset(newPos);
-
-        });
-
-        $("#my_favorite").mouseout(function() {
-            $("#favorite_list_box").hide();
-        });
-
-        $("#favorite_page_bar input").click(function () {
-            GetFavorite($(this).attr("data-value"));
-        });
-
-        GetFavorite(1);
-
-
-    });
-
-    function SetCurrentCity(city)
-    {
-        $.ajax({
-            type: "GET",
-            url: "/Json/SetCurrentCity/?location=" + encodeURIComponent(city),
-            cache: false,
-            success: function (result) {
-                if (result != '北京')
-                {
-                    location.reload();
-                }
-            },
-            error: function (XMLHttpRequest, textStatus, errorThrown) {
-            }
-        });
-    }
-
-    function updateCall(flag, obj)
-    {
-        SetCurrentCity(obj.location);
-    }
-
-    function GetFavorite(page)
-    {
-        $("#favorite_content").NoCacheLoad("/Account/MyFavorite?p=" + page);
-    }
-</script>
 <div id="express" class="form">
     <form action="/Account/OrderPerson" method="post" id="frmExpress">
         <div class="field">
@@ -76,11 +32,11 @@
             <input name="Type" type="radio" value="0" id="radType1" /><label for="radType1">我要找工作</label>
         </div>
         <div class="field">
-            <div class="helper field-validation-valid" data-valmsg-for="Name" data-valmsg-replace="true" >您的姓名</div>
+            
             <input type="text" name="Name" id="exName" class="text" data-val="true" placeholder="请输入您的姓名" />
         </div>
         <div class="field">
-            <div class="helper field-validation-valid" data-valmsg-for="Mobile" data-valmsg-replace="true">手机号码</div>
+           
             <input type="text" name="Mobile" id="exMobile" class="text" data-val="true" placeholder="请输入手机号码" data-val-regex="请输入正确的手机号码" data-val-regex-pattern="^\+?(86)?[1][3458]\d{9}$" />
         </div>
         <div class="field">
@@ -133,14 +89,12 @@
             </select>
         </div>
         <div class="field">
-            <div class="helper" data-valmsg-for="AddressMord" data-valmsg-replace="true">详细地址</div>
-            <input type="text" name="AddressMord" id="addrMore" class="text" />
+            <input type="text" name="AddressMord" id="addrMore" class="text"  placeholder="详细地址"/>
             <input type="hidden" name="Address" id="addrFull" value="" />
         </div>
         <div class="field">
-            <span class="helper field-validation-valid" data-valmsg-for="Craft" data-valmsg-replace="true">选择工种</span>
             <select id="exCraft" name="Craft" data-val="true" data-val-required="请选择工种">
-                <option value=""></option>
+                <option value="请选择" >请选择</option>
                 <option value="月嫂" data-servicetypeid="7de4c552-70ec-47b0-bebf-aa7ec0236a4d">月嫂</option>
                 <option value="育儿嫂" data-servicetypeid="43bc8456-76db-4229-9241-d257ff0d04bb">育儿嫂</option>
                 <option value="育儿兼家务" data-servicetypeid="00000000-0000-0000-0000-000000000000">育儿兼家务</option>
