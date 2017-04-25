@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .form{
+            background-color:darkgray;
+            border-radius: 5%;
+            width:18% ;
+            padding:2%;
+        }
+        .field{
+
+        }
+    </style>
+    <script src="js/jquery.unobtrusive-ajax.min.js"/>
+    <script src="js/jquery-1.11.1.min.js"/>
+    <script src="js/jquery-migrate-1.2.1.min.js"/>
+</head>
+<body>
+<script language="javascript" type="text/javascript">
+    $(function () {
+        $("#my_favorite").mouseover(function() {
+            var newPos = $(this).offset();
+            newPos.top = 40;
+            newPos.left = newPos.left - ($("#favorite_list_box").width() - $(this).width() + 4);
+            $("#favorite_list_box").show().offset(newPos);
+
+        });
+
+        $("#my_favorite").mouseout(function() {
+            $("#favorite_list_box").hide();
+        });
+
+        $("#favorite_page_bar input").click(function () {
+            GetFavorite($(this).attr("data-value"));
+        });
+
+        GetFavorite(1);
+
+
+    });
+
+    function SetCurrentCity(city)
+    {
+        $.ajax({
+            type: "GET",
+            url: "/Json/SetCurrentCity/?location=" + encodeURIComponent(city),
+            cache: false,
+            success: function (result) {
+                if (result != '北京')
+                {
+                    location.reload();
+                }
+            },
+            error: function (XMLHttpRequest, textStatus, errorThrown) {
+            }
+        });
+    }
+
+    function updateCall(flag, obj)
+    {
+        SetCurrentCity(obj.location);
+    }
+
+    function GetFavorite(page)
+    {
+        $("#favorite_content").NoCacheLoad("/Account/MyFavorite?p=" + page);
+    }
+</script>
+<div id="express" class="form">
+    <form action="/Account/OrderPerson" method="post" id="frmExpress">
+        <div class="field">
+            <input name="Type" type="radio" value="0" id="radType0" checked="checked" /><label for="radType0" style="margin-right:30px;">我要找阿姨</label>
+            <input name="Type" type="radio" value="0" id="radType1" /><label for="radType1">我要找工作</label>
+        </div>
+        <div class="field">
+            <div class="helper field-validation-valid" data-valmsg-for="Name" data-valmsg-replace="true" >您的姓名</div>
+            <input type="text" name="Name" id="exName" class="text" data-val="true" placeholder="请输入您的姓名" />
+        </div>
+        <div class="field">
+            <div class="helper field-validation-valid" data-valmsg-for="Mobile" data-valmsg-replace="true">手机号码</div>
+            <input type="text" name="Mobile" id="exMobile" class="text" data-val="true" placeholder="请输入手机号码" data-val-regex="请输入正确的手机号码" data-val-regex-pattern="^\+?(86)?[1][3458]\d{9}$" />
+        </div>
+        <div class="field">
+            <select name="Addr1" id="addr1" style="width:104px">
+                <option value="110000"selected="selected">北京市</option>
+                <option value="120000">天津市</option>
+                <option value="130000">河北省</option>
+                <option value="140000">山西省</option>
+                <option value="150000">内蒙古</option>
+                <option value="210000">辽宁省</option>
+                <option value="220000">吉林省</option>
+                <option value="230000">黑龙江省</option>
+                <option value="310000">上海市</option>
+                <option value="320000">江苏省</option>
+                <option value="330000">浙江省</option>
+                <option value="340000">安徽省</option>
+                <option value="350000">福建省</option>
+                <option value="360000">江西省</option>
+                <option value="370000">山东省</option>
+                <option value="410000">河南省</option>
+                <option value="420000">湖北省</option>
+                <option value="430000">湖南省</option>
+                <option value="440000">广东省</option>
+                <option value="450000">广西</option>
+                <option value="460000">海南省</option>
+                <option value="500000">重庆市</option>
+                <option value="510000">四川省</option>
+                <option value="520000">贵州省</option>
+                <option value="530000">云南省</option>
+                <option value="540000">西藏</option>
+                <option value="610000">陕西省</option>
+                <option value="620000">甘肃省</option>
+                <option value="630000">青海省</option>
+                <option value="640000">宁夏</option>
+                <option value="650000">新疆</option>
+                <option value="710000">台湾</option>
+                <option value="810000">香港</option>
+                <option value="820000">澳门</option>
+                <option value="foreign">其他国家</option>
+            </select>
+            <select name="Addr2" id="addr2" style="width:104px;margin:0;">
+                <option value="110000" selected="selected">请选择</option>
+                <option value="110001" >东城区</option>
+                <option value="110002" >西城区</option>
+                <option value="110003" >宣武区</option>
+                <option value="110004">朝阳区</option>
+                <option value="110005" >丰台区</option>
+                <option value="110005" >海淀区</option>
+                <option value="110006" >石景山区</option>
+            </select>
+        </div>
+        <div class="field">
+            <div class="helper" data-valmsg-for="AddressMord" data-valmsg-replace="true">详细地址</div>
+            <input type="text" name="AddressMord" id="addrMore" class="text" />
+            <input type="hidden" name="Address" id="addrFull" value="" />
+        </div>
+        <div class="field">
+            <span class="helper field-validation-valid" data-valmsg-for="Craft" data-valmsg-replace="true">选择工种</span>
+            <select id="exCraft" name="Craft" data-val="true" data-val-required="请选择工种">
+                <option value=""></option>
+                <option value="月嫂" data-servicetypeid="7de4c552-70ec-47b0-bebf-aa7ec0236a4d">月嫂</option>
+                <option value="育儿嫂" data-servicetypeid="43bc8456-76db-4229-9241-d257ff0d04bb">育儿嫂</option>
+                <option value="育儿兼家务" data-servicetypeid="00000000-0000-0000-0000-000000000000">育儿兼家务</option>
+                <option value="早教师" data-servicetypeid="00000000-0000-0000-0000-000000000000">早教师</option>
+                <option value="自理老人" data-servicetypeid="a93b31af-b471-4372-b1d6-7398f2ad27a5">自理老人</option>
+                <option value="半自理老人" data-servicetypeid="00000000-0000-0000-0000-000000000000">半自理老人</option>
+                <option value="不自理老人" data-servicetypeid="00000000-0000-0000-0000-000000000000">不自理老人</option>
+                <option value="病患陪护" data-servicetypeid="00000000-0000-0000-0000-000000000000">病患陪护</option>
+                <option value="一般家务" data-servicetypeid="6cfcd891-d483-4754-aa56-3276ac3aa21f">一般家务</option>
+                <option value="家务兼育儿" data-servicetypeid="00000000-0000-0000-0000-000000000000">家务兼育儿</option>
+                <option value="涉外家务" data-servicetypeid="00000000-0000-0000-0000-000000000000">涉外家务</option>
+                <option value="高端家务" data-servicetypeid="00000000-0000-0000-0000-000000000000">高端家务</option>
+                <option value="别墅家务" data-servicetypeid="00000000-0000-0000-0000-000000000000">别墅家务</option>
+                <option value="家庭教师" data-servicetypeid="00000000-0000-0000-0000-000000000000">家庭教师</option>
+                <option value="私人助理" data-servicetypeid="00000000-0000-0000-0000-000000000000">私人助理</option>
+                <option value="管家" data-servicetypeid="00000000-0000-0000-0000-000000000000">管家</option>
+                <option value="厨师" data-servicetypeid="00000000-0000-0000-0000-000000000000">厨师</option>
+                <option value="司机" data-servicetypeid="00000000-0000-0000-0000-000000000000">司机</option>
+                <option value="日常保洁" data-servicetypeid="9aa84d03-4f74-4d20-a034-a2fb134c4841">日常保洁</option>
+                <option value="包月小时工" data-servicetypeid="1a054b30-f8b4-45e0-945a-d7d19e9a3afe">包月小时工</option>
+            </select>
+            <input type="hidden" name="ServiceTypeID" id="ServiceTypeID" />
+        </div>
+        <input id="btnExpress" type="submit" class="button" value="快速预定" style="margin-top:20px;" />
+    </form>
+    </div>
+</body>
+</html>
