@@ -25,12 +25,12 @@
   display: inline-block;
   height: 114px;
   line-height:114px;
-  width: calc(100% /8);
+  width: calc(100% /12);
 }
 .header .nav .nav-list .nav-item:hover {
   height: 80px;
   line-height: 80px;
-  background-color: #333;
+  background-color: gainsboro;
 }
 .container {
   width: 1200px;
