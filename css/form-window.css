@@ -103,7 +103,7 @@ body, button, input, select, textarea, code {
 
 
 /* input */
- .field{
+.field, .field0 {
 color: red;
 	 display: flex;
 	align-items: center;
@@ -241,11 +241,10 @@ input.btn {
 .theme-popover {
 	z-index:9999;
 	position:fixed;
-	top:50%;
-	left:50%;
-	width:350px;
-	height:500px;
-	margin:-180px 0 0 -330px;
+	top: 8%;
+	left: 35%;
+	width: 28%;
+	height: 85%;
 	border-radius:5px;
 	border:solid 2px #666;
 	background-color:#fff;
@@ -358,4 +357,29 @@ input.btn {
 }
 .theme-desc, .theme-version {
 	padding-top: 0
+}
+
+.theme-poptit h3 {
+	color: #999999;
+}
+
+#radType1 {
+	margin-left: 25px;
+}
+
+.field input, .field select {
+	width: 90%;
+	height: 70%;
+	font-size: 1.2em;
+}
+
+.field {
+	margin-top: 3%;
+}
+
+#btnExpress {
+	width: 90%;
+	height: 30px;
+	background: orangered;
+	color: white;
 }

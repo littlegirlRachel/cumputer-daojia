@@ -4,11 +4,11 @@
   min-width 1200px
   //height 200px
   .logo {
-
     flex 1
     img {
       display inline-block
-
+      float: left;
+      margin-top: .8%;
     }
   }
   .nav {
@@ -20,16 +20,26 @@
       font-size 0
       font-weight bold
       .nav-item {
-        color white
-        font-size 1rem
-        display inline-block
-        height 87px
-        line-height 87px
-        width calc(100% / 6)
+        color: dimgrey;
+        font-size: .8rem;
+        display: inline-block;
+        height: 114px;
+        line-height: 114px;
+        width: calc(100% / 12);
         //float left
       }
+      .nav-input {
+        display inline-block
+        margin-left 1%
+        width calc(100% / 11)
+        padding-left 2%
+        height 25px
+        border-radius 5px
+        background-image url("../img/icon/sousuo.png")
+        background-repeat no-repeat
+      }
       .nav-item:hover {
-        background-color #333333
+        color: red;
         }
     }
 
